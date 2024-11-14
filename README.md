@@ -23,10 +23,10 @@ Certifique-se de ter o **Node.js** instalado em sua máquina.
 
 1. **Clone o repositório**:
 
-   ```bash
-   git clone https://github.com/matheusdesouzapereira/testes-com-jest.git
-   cd testes-com-jest
-   ```
+```bash
+git clone https://github.com/matheusdesouzapereira/testes-com-jest.git
+cd testes-com-jest
+```
 2. Instale as dependências:
 
 ```
